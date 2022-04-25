@@ -1,2 +1,2 @@
 # Computational-models
-The system defines DFSM.
+Deterministic & non-deterministic finite automaton (DFSM & NDFSM) project.
